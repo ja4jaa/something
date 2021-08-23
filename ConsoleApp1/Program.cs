@@ -7,9 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("Say something: ");
-            string hehe = Console.ReadLine();
+            string h = Console.ReadLine();
 
-            Console.WriteLine("You said " + hehe);
+            Console.WriteLine("You said " + h);
         }
     }
 }
